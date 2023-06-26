@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m currently working on becoming a software developer at Tech-Elevator
+
+I’m currently learning HTML, CSS, Javascript and Java
+
+How to reach me: Twitter @Bei_Rye
